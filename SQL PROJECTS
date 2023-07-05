@@ -1,4 +1,4 @@
-USE Assignments
+USE [LAXMAN BHOSALE]
 
 CREATE TABLE cars (
 car_id INT PRIMARY KEY,
